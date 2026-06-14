@@ -1,0 +1,10 @@
+__pycache__/
+**pycache**/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+data/raw.txt
+checkpoints/*.pt
+checkpoints/*.pth
+notebook_06.ipynb
